@@ -1,4 +1,4 @@
-### Olá ! Eu sou Matheus Cosiello Estou estudando Front-end/back-end e tenho Experiencia com Deisgn
+### Technology and development student Front-end | back-end | DBA
 ##
 
 <div align="center">
