@@ -7,6 +7,6 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 Divertido simpático e em busca de me tornar um programador cada dia melhor.
-- 🚀 &nbsp; Atualmente, estou Cursando Minha Pós-Graduação em Engenharia de softwarer.
+- 🚀 &nbsp; Pós-Graduação em Engenharia de softwarer.
 - 🏎 &nbsp; Sou apaixonado por Games, animes e animais !
   
