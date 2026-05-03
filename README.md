@@ -33,9 +33,9 @@ public class Matheus extends SoftwareEngineer {
 
 <br/>
 
-- 🚀 &nbsp; Pós-graduado em **Engenharia de Software**, com foco em desenvolvimento back-end
-- 💡 &nbsp; Fascinado por **arquitetura de sistemas**, boas práticas e código limpo
-- 🌱 &nbsp; Sempre estudando e me atualizando — aprender é o maior diferencial
+- 🚀 &nbsp; Pós-graduado em **Engenharia de Software**,**Engenharia Aplicada**,**Engenharia de IA**
+- 💡 &nbsp; Fascinado por **Produto que gera valor deverdade**, boas práticas e código limpo
+- 🌱 &nbsp; Sempre estudando e me atualizando.
 - 🎯 &nbsp; Buscando contribuir em times que valorizam **qualidade, colaboração e inovação**
 - 🎮 &nbsp; Nas horas vagas: games, animes e momentos com os bichinhos
 
@@ -68,47 +68,7 @@ public class Matheus extends SoftwareEngineer {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
-
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCosiello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCosiello&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusCosiello&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MatheusCosiello&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
-## 📈 Gráfico de atividade
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusCosiello&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/MatheusCosiello)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💬 Bora trocar uma ideia?
 
